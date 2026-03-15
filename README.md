@@ -55,3 +55,7 @@ src/
   App.jsx            ← Main logic (CRUD, state)
   App.css            ← All styles
 ```
+## 👨‍💻 Author
+
+*Om Darade*
+- GitHub: [@om-darade03](https://github.com/om-darade03)
